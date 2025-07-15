@@ -2,8 +2,8 @@
 layout: post
 title: "Hackitmac Re-branding"
 tags: [branding, UI, UX]
-Link: https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf
 ---
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cXQobjyA46L9NBjDt1AOAQ.png)
 
 [Originally posted on Medium](https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf)
 
