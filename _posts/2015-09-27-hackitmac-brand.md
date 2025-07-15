@@ -5,7 +5,7 @@ tags: [branding, UI, UX]
 Link: https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf
 ---
 
-Originally posted on Medium: https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf
+[Originally posted on Medium](https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf)
 
 Branding is one of the most essential things to any organization. It's your image. How do you want the stakeholders you deal with to view you? How do you want people who don't know you to have as a first impression?
 This is how Hackitmac used to look:
