@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Blog
+name: Mohamed Fouda
 
 # Short bio or description (displayed in the header)
-description: By Mohamed Fouda
+description: Product Designer, Cycling Instructor, and occasionally photographer
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ navigation:
   #  url: /about
   #- name: Archive
   #  url: /archive
-  - name: Tags
+  - name: Portfolio
     url: /tags
   
 

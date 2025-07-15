@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Readability with a Bunch of Text"
-tags: [sample post, test]
+tags: []
 ---
 
 A ton of text to test readability.
