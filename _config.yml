@@ -37,13 +37,13 @@ paginate: 5
 footer-links:
   behance: 
   dribbble:
-  email:
+  email: foudamo@gmail.com
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: foudamo
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
+  instagram: photos.foudamo
+  linkedin: foudamo
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
