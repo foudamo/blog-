@@ -555,7 +555,7 @@ nav {
 
 footer {
   padding: 20px 0;
-  text-align: center;
+  text-align: end;
 
   p {
     font-size: $small-font-size;
@@ -566,7 +566,7 @@ footer {
     font-size: 0;
     list-style: none;
     margin: 0;
-    text-align: center;
+    text-align: end;
 
     li {
       display: inline-block;

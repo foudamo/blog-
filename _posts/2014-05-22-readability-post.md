@@ -2,7 +2,6 @@
 layout: post
 title: "Testing Readability with a Bunch of Text"
 tags: [sample post, test, style]
-draft: true
 ---
 
 A ton of text to test readability.

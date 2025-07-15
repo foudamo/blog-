@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arabic Character Support Test"
-tags: [sample post, test, style]
+tags: [sample post]
 ---
 
 Testing the template's support for [Arabic Characters](https://en.wikipedia.org/wiki/Arabic_alphabet).
