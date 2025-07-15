@@ -5,7 +5,8 @@ tags: [branding, UI, UX]
 Link: https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf
 ---
 
-# Hackitmac Re-branding
+Originally posted on Medium: https://medium.com/hackitmac-blog/hackitmac-rebranding-519abbfe22cf
+
 Branding is one of the most essential things to any organization. It's your image. How do you want the stakeholders you deal with to view you? How do you want people who don't know you to have as a first impression?
 This is how Hackitmac used to look:
 And so a couple of notes here; for just a logo for our first year, this was more than fine. However, it wasn't enough for our plans and dreams of where we wanted to take the club. We needed a cleaner logo that's easier to read. We needed a full identity that screams our dreams and values and what we do as a club. We needed a full brand. So we created one. This is how Hackitmac looks now:
@@ -21,12 +22,12 @@ Our main colours are different levels of Blue and different levels of orange/gol
 
 This sums up our club and community precisely. We take risks by adding to our workloads and spending time travelling and building things; yet we are very confident in what we're doing. We love diversity and working with others (in fact, a huge number of the club are not engineers and never coded before!) yet we're very comfortable going outside of our comfort zones to be truly innovative. Lastly, we're a very welcoming community that is self-motivated and encouraging towards each other, and is never too noisy for a voice to be heard :)
 
----
+
 
 Alas, if you're looking for branding material, here's how the new logo looks across the different colours:
 
 & here's the colour palette we are using:
 
----
+
 
 So what do you think? Do you have any feedback to us? Please let us know through any of our contacting channels, as we dearly dearly value that :)
