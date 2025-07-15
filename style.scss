@@ -27,7 +27,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 10px 40px;
   width: 100%;
 }
 
@@ -312,7 +312,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-top: 100px;
 }
 
 .masthead {
@@ -547,8 +547,9 @@ nav {
 // Footer
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid $footer-border-color;
+  margin-bottom: 100px;
+//  border-top: 1px solid #fff;
+//  border-bottom: 1px solid #fff;
   background-color: #fff;
 }
 
