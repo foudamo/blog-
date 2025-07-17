@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "The History of Coffeehouses (Coffeeshops) and The Cultural Traits they Left Behind"
-tags: [Research, Coffee, Culture, Design]
+title: The History of Coffeehouses (Coffeeshops) and The Cultural Traits they Left Behind
+tags:
+  - Research
+  - Design
 date: 2021-04-01
 ---
-
-# The History of Coffeehouses (Coffeeshops) and The Cultural Traits they Left Behind
-
 *Originally posted at [Mohamed Fouda - History of Coffee Houses](https://sites.google.com/view/mohamed-fouda/archived-projects-research/history-of-coffee-houses)*
 
 ## Background - Why Coffee?

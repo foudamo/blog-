@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Imagining a Consumer-targeted EEG Headset"
-tags: [Product Design, Research, EEG, User Testing]
+title: Imagining a Consumer-targeted EEG Headset
+tags:
+  - Product
+  - Design
+  - Research
 date: 2022-04-01
 ---
-
-# Imagining a Consumer-targeted EEG Headset
 
 *Originally posted at [Mohamed Fouda - Redesign EEG Headset](https://sites.google.com/view/mohamed-fouda/experience/redesign-eeg-headset)*
 
@@ -17,9 +18,3 @@ Majority of EEG headsets currently are designed and engineered for researchers. 
 - **Success criteria:** Defined "success" criteria to measure against (which were: fit comfort, ease of maintenance, friendliness “cool” factor, cleanliness for long wear). Created moodboards and assessments of what we define as successful examples/products.
 - **Ideation & Prototyping:** Illustrated and brainstormed different ideas of the product solution, as well as built physical prototypes. Followed by user testing and interviewing, plus iterating on prototype.
 - **Storytelling:** Directed a video of prototypes and illustrations, implementing storytelling techniques to explain the process, and the features/benefits. Implemented the story into an in-person presentation-format.
-
----
-
-**About the author:**
-
-Tech addict, design obsessed; & on an adventure of wondrous voyages and magical tales!
