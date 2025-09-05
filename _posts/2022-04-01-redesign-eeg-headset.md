@@ -7,8 +7,7 @@ tags:
   - Research
 date: 2022-04-01
 ---
-
-*Originally posted at [Mohamed Fouda - Redesign EEG Headset](https://sites.google.com/view/mohamed-fouda/experience/redesign-eeg-headset)*
+![](/images/EEGH_0.jpg)
 
 ## Project Overview
 Majority of EEG headsets currently are designed and engineered for researchers. In this project, we tried to redesign it as a consumer product. The targeted consumer in this case: Locked-in Syndrome Patients.
@@ -21,19 +20,24 @@ Majority of EEG headsets currently are designed and engineered for researchers. 
 
 ---
 
-## Gallery
+## Snapshots from the design process
+![](/images/EEGH_3.png)
+![](/images/EEGH_2.png)
+![](/images/EEGH_5.png)
+![](/images/EEGH_6.jpg)
+![](/images/EEGH_1.png)
+![](/images/EEGH_4.png)
+![](/images/EEGH_7.png)
+![](/images/EEGH_8.png)
 
-Below are images and links related to the Redesign EEG Headset project:
+## On head Placement Assessment
+![](/images/EEGH_9.jpg)
+![](/images/EEGH_10.jpg)
+![](/images/EEGH_11.jpg)
+![](/images/EEGH_12.jpg)
+![](/images/EEGH_13.jpg)
 
-[6-MonthsReview.pdf](/images/Redesign%20of%20EEG%20Headset/6-MonthsReview.pdf)
-[Design_Process.pdf](/images/Redesign%20of%20EEG%20Headset/Design_Process.pdf)
-![HighFWeb Design.jpg](/images/Redesign%20of%20EEG%20Headset/HighFWeb%20Design.jpg)
-![HighF_Wireframing%231.jpg](/images/Redesign%20of%20EEG%20Headset/HighF_Wireframing%231.jpg)
-[Invision_Prototype.pdf](/images/Redesign%20of%20EEG%20Headset/Invision_Prototype.pdf)
-[Journey Map.pdf](/images/Redesign%20of%20EEG%20Headset/Journey%20Map.pdf)
-![LowF_Wireframing%232.jpg](/images/Redesign%20of%20EEG%20Headset/LowF_Wireframing%232.jpg)
-![LowF_Wireframing%233.jpg](/images/Redesign%20of%20EEG%20Headset/LowF_Wireframing%233.jpg)
-![Mockup%231.png](/images/Redesign%20of%20EEG%20Headset/Mockup%231.png)
-[Moodboard%231.pdf](/images/Redesign%20of%20EEG%20Headset/Moodboard%231.pdf)
-[Persona Template.pdf](/images/Redesign%20of%20EEG%20Headset/Persona%20Template.pdf)
-[Personas.pdf](/images/Redesign%20of%20EEG%20Headset/Personas.pdf)
+---
+
+### Further reading
+[Final Design Report on Redesigning EEG Headset](/images/Redesign%20of%20EEG%20Headset/SYDE660_FinalProjectReport-copy.pdf)
