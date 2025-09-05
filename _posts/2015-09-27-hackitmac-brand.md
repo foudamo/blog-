@@ -33,9 +33,3 @@ Alas, if you're looking for branding material, here's how the new logo looks acr
 
 
 So what do you think? Do you have any feedback to us? Please let us know through any of our contacting channels, as we dearly dearly value that :)
-
----
-
-**About the author:**
-
-Tech addict, design obsessed; & on an adventure of wondrous voyages and magical tales!

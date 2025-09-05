@@ -9,7 +9,7 @@ beforetoc: ""
 categories: [Volunteering]
 tags: []
 ---
-I originally posted this on [CivicTech Waterloo Region's Blog](https://civictechwr.github.io/blog/Iterating-on-IDEO's-DVF-Framework-(for-CivicTech))
+*Cross posted on [CivicTech Waterloo Region's Blog](https://civictechwr.github.io/blog/Iterating-on-IDEO's-DVF-Framework-(for-CivicTech))*
 
 Civic tech ideas don’t fail for lack of enthusiasm—they fail when the community and the team can’t reliably show up. That’s why we re-worked IDEO’s classic DVF lens into a lightweight **20-point scorecard** built for CivicTechWR projects, where the “product” is often a public good and the fuel is volunteers. The goal: help teams decide **what to back, how much to back it, and what to learn next**—fast.
 
@@ -29,7 +29,7 @@ Score each 1–5:
 4. **Civic Exciting**
    Is the public-interest story strong, with potential for visible community impact?
 
-![](/blog/images/DVF_1.png)
+![](/images/DVF_1.png)
 
 **Total (max 20) → Action**
 
@@ -42,7 +42,7 @@ Score each 1–5:
 
 The score puts you in one of two categories: CTWR Supported, or Not CTWR Supported (the names are a work in progress!)
 
-![](/blog/images/DVF_2.png)
+![](/images/DVF_2.png)
 
 CTWR Supported means: 
 - The project gets priorty to demo on Week 12 (Demo Day)
@@ -76,7 +76,7 @@ In civic tech, “capture” might be *adoption by a partner*, *volunteer hours 
 * For **13–16**, scope a public demo to learn in front of users.
 * For **17–20**, lean into momentum—tight cadences, regular showcases, strong storytelling with partners.
 
-![](/blog/images/DVF_3.png)
+![](/images/DVF_3.png)
 
 Design thinking still matters; we just made it **decision-ready** for volunteers, public partners, and the rhythm of meetups. If a project can’t earn committed people and a compelling civic story, it won’t matter how elegant the prototype is. If it can, this simple 20-point gut-check gives everyone permission to move—and keep learning together.
 
