@@ -9,7 +9,7 @@ Currently, with the United Nations helping build up [Quality of Life Initative](
 
 My passion is in how design attributions affect cognitive abilities, specifically in the areas of sports psychology, consumer technology, and human behaviour and development. I am also an avid cyclist and cycling instructor at the University of Waterloo. And sometimes I do musicals on stage!
 
-![](https://lh3.googleusercontent.com/8BeRYF0Glfdi3THeF_yZuyyfwgBAy1FekVmtJUsoVcAj-6fyJ_5qkPQ6bbY4oH53CNC8uLbnXBtJHE4NVQBIN4U)
+![](/images/IMG_2118.jpeg)
 
 ### Contact me
 
