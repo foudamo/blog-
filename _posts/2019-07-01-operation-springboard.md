@@ -17,12 +17,11 @@ Marginalized youth are often caught up in between cracks for no fault of theirs 
 
 ## Gallery
 
-Below are images and videos related to Operation Springboard:
+Below are images related to Operation Springboard:
 
 ![IMG_6124.jpeg](/images/OperationSpringboard/IMG_6124.jpeg)
 ![IMG_6125.jpg](/images/OperationSpringboard/IMG_6125.jpg)
 ![IMG_6132.jpg](/images/OperationSpringboard/IMG_6132.jpg)
-<video controls src="/images/OperationSpringboard/My Movie 2.mp4" width="100%"></video>
 ![Placement_Assesment.jpg](/images/OperationSpringboard/Placement_Assesment.jpg)
 ![Screen_Shot_2023-01-06_at_2.15.23_AM.jpg](/images/OperationSpringboard/Screen_Shot_2023-01-06_at_2.15.23_AM.jpg)
 ![Slide32.png](/images/OperationSpringboard/Slide32.png)
