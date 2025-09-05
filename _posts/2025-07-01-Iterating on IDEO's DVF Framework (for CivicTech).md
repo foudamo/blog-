@@ -9,9 +9,9 @@ beforetoc: ""
 categories: [Volunteering]
 tags: []
 ---
-![](/images/DVF_0.png)
-
 *Cross posted on [CivicTech Waterloo Region's Blog](https://civictechwr.github.io/blog/Iterating-on-IDEO's-DVF-Framework-(for-CivicTech))*
+
+![](/images/DVF_0.png)
 
 Civic tech ideas don’t fail for lack of enthusiasm—they fail when the community and the team can’t reliably show up. That’s why we re-worked IDEO’s classic DVF lens into a lightweight **20-point scorecard** built for CivicTechWR projects, where the “product” is often a public good and the fuel is volunteers. The goal: help teams decide **what to back, how much to back it, and what to learn next**—fast.
 
