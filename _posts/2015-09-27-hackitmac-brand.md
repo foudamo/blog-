@@ -10,6 +10,7 @@ tags: [branding, UI, UX]
 ---
 
 Branding is one of the most essential things to any organization. It's your image. How do you want the stakeholders you deal with to view you? How do you want people who don't know you to have as a first impression?
+
 This is how Hackitmac used to look:
 
 ![](/images/Hackitmac_2.png)
@@ -18,15 +19,19 @@ And so a couple of notes here; for just a logo for our first year, this was more
 
 ![](/images/Hackitmac_1.png)
 
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cXQobjyA46L9NBjDt1AOAQ.png)
+
 It's a lot cleaner, and a lot higher resolution. But that's not the point! The new branding represents us in a way that allows people's first impression to have a visual of what we do as a community and as a club. Here's how:
 
-![](/images/Hackitmac_3.png)
-
 1. The logo is a lot cleaner, and easier to read. We emphasized a lot on the "Hack" by separating the words by colour to allow for an easier faster read.
+
+![](/images/Hackitmac_3.png)
 
 2. We made sure to visualize what "hacking" & "hackathons" are all about by adding a pattern of moments and things that everyone who has ever been to a hackathon would relate to. A lot of people associate "hacking" with the illegal activities of stealing and cracking into people's computers. But that's not what we do!
 
 3. We are a community interested in learning, building, and experiencing with different cool technologies in order to solve real problems. We are diverse. We are positive. We love free swag. All those are things you will find in our pattern.
+
+![](/images/Hackitmac_4.png)
 
 4. Our main colours are different levels of Blue and different levels of orange/gold. Why? Typically colours are associated with meaning psychologically (seriously! This is so cool Google it up). Here's how it goes;
 - Blue is associated with confidence, comfortable, and quiet; where
@@ -38,7 +43,7 @@ This sums up our club and community precisely. We take risks by adding to our wo
 
 Alas, if you're looking for branding material, here's how the new logo looks across the different colours:
 
-![](/images/Hackitmac_4.png)
+![](/images/Hackitmac_3.png)
 
 & here's the colour palette we are using:
 
