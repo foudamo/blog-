@@ -3,7 +3,7 @@ layout: post
 title: A Review of Systematic Ways of Reducing Viral Transmission in Public Gyms
 tags:
   - Research
-  - Design
+  - Highlighted-Projects
 date: 2021-05-01
 ---
 *Originally posted at [Mohamed Fouda - A Review of Systematic Ways of Reducing Viral Transmission in Public Gyms](https://sites.google.com/view/mohamed-fouda/archived-projects-research/a-review-of-systematic-ways-of-reducing-viral-transmission-in-public-gyms)*

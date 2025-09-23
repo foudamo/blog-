@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Dark Design Patterns"
-tags: [Product Design, User Testing, UX]
+title: Dark Design Patterns
+tags:
+  - Blog
 ---
 
 *Originally posted on [Medium](https://medium.com/@FoudaMoh/dark-design-patterns-501e9bed4d2f) by [M. O. Fouda](https://medium.com/@FoudaMoh)*

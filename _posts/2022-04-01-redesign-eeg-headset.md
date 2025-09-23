@@ -2,9 +2,8 @@
 layout: post
 title: Imagining a Consumer-targeted EEG Headset
 tags:
-  - Product
-  - Design
   - Research
+  - Highlighted-Projects
 date: 2022-04-01
 ---
 ![](/images/EEGH_0.jpg)

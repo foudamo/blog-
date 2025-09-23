@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Traffic Light Buttons"
-tags: [Product Design, User Testing, UX]
+title: Traffic Light Buttons
+tags:
+  - Blog
 ---
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*Ygc4aoYT59rYxyEX_E4qxA.png)
 

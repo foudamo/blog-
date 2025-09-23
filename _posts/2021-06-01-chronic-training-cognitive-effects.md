@@ -3,7 +3,7 @@ layout: post
 title: A Review on Chronic Training (e.g. Marathon Training), its Cognitive Effects, and Whether it can be Applied at Work or Study Environment
 tags:
   - Research
-  - Productivity
+  - Highlighted-Projects
 date: 2021-06-01
 ---
 *Originally posted at [Mohamed Fouda - Distributed Cognition](https://sites.google.com/view/mohamed-fouda/archived-projects-research/distributed-cognition)*

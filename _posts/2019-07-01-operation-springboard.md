@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Process Design & Educational Curriculum Design (Operation Springboard)"
-tags: [Education, Curriculum Design, UX, Social Impact]
+title: Process Design & Educational Curriculum Design (Operation Springboard)
+tags:
+  - UX
+  - Highlighted-Projects
 date: 2019-07-01
 ---
 *Originally posted at [Mohamed Fouda - Operation Springboard](https://sites.google.com/view/mohamed-fouda/experience/operation-springboard)*

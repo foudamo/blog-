@@ -6,8 +6,9 @@ author: foudamo
 image: /images/DVF_0.png
 toc: true
 beforetoc: ""
-tags: 
-   - volunteering
+tags:
+  - Volunteering
+  - Blog
 ---
 ![](/images/DVF_0.png)
 

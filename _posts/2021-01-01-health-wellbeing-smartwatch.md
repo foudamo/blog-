@@ -6,6 +6,7 @@ tags:
   - Design
   - UX
   - Research
+  - Highlighted-Projects
 date: 2021-01-01
 ---
 *Originally posted at [Mohamed Fouda - Health & Wellbeing Smartwatch](https://sites.google.com/view/mohamed-fouda/experience/health-wellbeing-smartwatch)*

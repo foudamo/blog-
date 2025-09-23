@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "GAIA Product Development"
-tags: [Highlighted Projects]
+title: GAIA Product Development
+tags:
+  - Highlighted-Projects
 date: 2018-04-01
 ---
 

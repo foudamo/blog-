@@ -3,7 +3,7 @@ layout: post
 title: Exploring Minimalism vs Maximalism in a VR Workspace
 tags:
   - Research
-  - Design
+  - Highlighted-Projects
 date: 2021-07-01
 ---
 ## Project Overview
