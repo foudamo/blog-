@@ -3,10 +3,12 @@ layout: post
 title: GAIA Product Development
 tags:
   - Highlighted-Projects
+  - UX
+  - Product Design
 date: 2018-04-01
 ---
 
-![](gaia_main.jpg)
+![](/images/GAIA/gaia_main.jpg)
 
 ## Project Overview
 This is a complete cycle of a product from concept to final prototype, with a startup built around it employing tens of people and evaluated at $1M CAD.
