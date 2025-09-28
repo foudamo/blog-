@@ -6,7 +6,7 @@ tags:
 date: 2018-04-01
 ---
 
-![](124638209_2141709509299651_1280447237740374620_o.jpg)
+![](gaia_main.jpg)
 
 ## Project Overview
 This is a complete cycle of a product from concept to final prototype, with a startup built around it employing tens of people and evaluated at $1M CAD.

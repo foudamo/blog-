@@ -6,7 +6,7 @@ tags:
   - Highlighted-Projects
 date: 2019-07-01
 ---
-*Originally posted at [Mohamed Fouda - Operation Springboard](https://sites.google.com/view/mohamed-fouda/experience/operation-springboard)*
+![](/images/OperationSpringboard/HighF_Wireframing#1.jpg)
 
 ## Project Overview
 Marginalized youth are often caught up in between cracks for no fault of theirs but lack of knowledge. Working with Operation Springboard, we designed and built systems and curriculums to offer help in terms of courses such as "financial literacy" and "driving under influence".
@@ -19,18 +19,16 @@ Marginalized youth are often caught up in between cracks for no fault of theirs 
 
 ## Gallery
 
-Below are images related to Operation Springboard:
+Below are images related to the design process I used at Operation Springboard:
 
-![IMG_6124.jpeg](/images/OperationSpringboard/IMG_6124.jpeg)
-![IMG_6125.jpg](/images/OperationSpringboard/IMG_6125.jpg)
-![IMG_6132.jpg](/images/OperationSpringboard/IMG_6132.jpg)
-![Placement_Assesment.jpg](/images/OperationSpringboard/Placement_Assesment.jpg)
-![Screen_Shot_2023-01-06_at_2.15.23_AM.jpg](/images/OperationSpringboard/Screen_Shot_2023-01-06_at_2.15.23_AM.jpg)
-![Slide32.png](/images/OperationSpringboard/Slide32.png)
-![Slide33.png](/images/OperationSpringboard/Slide33.png)
-![Slide34.png](/images/OperationSpringboard/Slide34.png)
-![Slide39.png](/images/OperationSpringboard/Slide39.png)
-![Slide40.png](/images/OperationSpringboard/Slide40.png)
-![Slide44.png](/images/OperationSpringboard/Slide44.png)
-![Slide51.png](/images/OperationSpringboard/Slide51.png)
-![Slide58.png](/images/OperationSpringboard/Slide58.png)
+![](/images/OperationSpringboard/HighF_Wireframing#1.jpg)
+![](/images/OperationSpringboard/Design_Process.pdf)
+![](/images/OperationSpringboard/HighFWeb-Design.jpg)
+![](/images/OperationSpringboard/Invision_Prototype.pdf)
+![](/images/OperationSpringboard/Journey-Map.pdf)
+![](/images/OperationSpringboard/LowF_Wireframing#2.jpg)
+![](/images/OperationSpringboard/LowF_Wireframing#3.jpg)
+![](/images/OperationSpringboard/Mockup#1.png)
+![](/images/OperationSpringboard/Moodboard#1.pdf)
+![](/images/OperationSpringboard/Persona-Template.pdf)
+![](/images/OperationSpringboard/Personas.pdf)

@@ -7,7 +7,6 @@ image: /images/DVF_0.png
 toc: true
 beforetoc: ""
 tags:
-  - Volunteering
   - Blog
 ---
 ![](/images/DVF_0.png)
