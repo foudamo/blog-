@@ -11,4 +11,4 @@ It is fascinating to me to see different designs of coffeeshops in Cairo (Egypt)
 
 This research or map was an opportunity for me to unpack what I wanted to scream, exploring all the similarities and differences in the design of coffeeshops.
 
-![](/images/research.pdf)
+![](/images/Coffehouses/research.pdf)
