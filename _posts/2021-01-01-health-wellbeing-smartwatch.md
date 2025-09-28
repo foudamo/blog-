@@ -4,7 +4,6 @@ title: Design of a Wellbeing-focused Smartwatch for the Average Consumer
 tags:
   - Product Design
   - UX
-  - Highlighted-Projects
 date: 2021-01-01
 ---
 <div class="tenor-gif-embed" data-postid="27208000" data-share-method="host" data-aspect-ratio="0.684375" data-width="100%"><a href="https://tenor.com/view/design-gif-27208000">Design GIF</a>from <a href="https://tenor.com/search/design-gifs">Design GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

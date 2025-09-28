@@ -2,7 +2,6 @@
 layout: post
 title: Hackitmac Re-branding
 tags:
-  - Highlighted-Projects
   - Branding
 ---
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cXQobjyA46L9NBjDt1AOAQ.png)

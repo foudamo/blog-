@@ -3,7 +3,6 @@ layout: post
 title: Effect of Fatigue & Time-pressure on Self-control and Decision Making
 tags:
   - Research
-  - Highlighted-Projects
 date: 2021-08-01
 ---
 ## Abstract

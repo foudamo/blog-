@@ -2,7 +2,6 @@
 layout: post
 title: GAIA Product Development
 tags:
-  - Highlighted-Projects
   - UX
   - Product Design
 date: 2018-04-01

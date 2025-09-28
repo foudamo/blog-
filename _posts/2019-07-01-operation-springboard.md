@@ -3,7 +3,6 @@ layout: post
 title: Process Design & Educational Curriculum Design (Operation Springboard)
 tags:
   - UX
-  - Highlighted-Projects
 date: 2019-07-01
 ---
 ![](/images/OperationSpringboard/HighF_Wireframing-1.jpg)
