@@ -6,7 +6,7 @@ tags:
   - Highlighted-Projects
 date: 2019-07-01
 ---
-![](/images/OperationSpringboard/HighF_Wireframing#1.jpg)
+![](/images/OperationSpringboard/HighF_Wireframing-1.jpg)
 
 ## Project Overview
 Marginalized youth are often caught up in between cracks for no fault of theirs but lack of knowledge. Working with Operation Springboard, we designed and built systems and curriculums to offer help in terms of courses such as "financial literacy" and "driving under influence".
@@ -21,14 +21,14 @@ Marginalized youth are often caught up in between cracks for no fault of theirs 
 
 Below are images related to the design process I used at Operation Springboard:
 
-![](/images/OperationSpringboard/HighF_Wireframing#1.jpg)
+![](/images/OperationSpringboard/HighF_Wireframing-1.jpg)
 ![](/images/OperationSpringboard/Design_Process.pdf)
 ![](/images/OperationSpringboard/HighFWeb-Design.jpg)
 ![](/images/OperationSpringboard/Invision_Prototype.pdf)
 ![](/images/OperationSpringboard/Journey-Map.pdf)
-![](/images/OperationSpringboard/LowF_Wireframing#2.jpg)
-![](/images/OperationSpringboard/LowF_Wireframing#3.jpg)
-![](/images/OperationSpringboard/Mockup#1.png)
-![](/images/OperationSpringboard/Moodboard#1.pdf)
+![](/images/OperationSpringboard/LowF_Wireframing-2.jpg)
+![](/images/OperationSpringboard/LowF_Wireframing-3.jpg)
+![](/images/OperationSpringboard/Mockup-1.png)
+![](/images/OperationSpringboard/Moodboard-1.pdf)
 ![](/images/OperationSpringboard/Persona-Template.pdf)
 ![](/images/OperationSpringboard/Personas.pdf)
