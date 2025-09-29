@@ -52,9 +52,3 @@ Then we can distinguish between all three functionality and translate them into 
 Thus, we communicate to the users that when it’s the colour blue, you don’t need to interact, the light will give you a turn by itself. When it’s yellow and white, you need to interact in order to get a turn.
 
 Additional notes: this of course does not take into account the full library of colours and their meaning that the city or traffic authorities already have. So the colours suggested here are only to make the point. Furthermore, even the choice of a colour such as yellow as the standard could be the wrong choice. For example, if pedestrians tend to cross intersections without waiting their turn, perhaps a stronger colour such as red (similar to the Stop sign) is more appropriate choice.
-
----
-
-**About the author:**
-
-Tech addict, design obsessed; & on an adventure of wondrous voyages and magical tales!

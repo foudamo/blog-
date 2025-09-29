@@ -32,12 +32,6 @@ On the opposite side, you have things like strategies applied by Republican Part
 
 ---
 
-**About the author:**
-
-Tech addict, design obsessed; & on an adventure of wondrous voyages and magical tales!
-
----
-
 **References:**
 
 [1] The reckoning: Silicon Valley confronts its digital sins — The Globe and Mail
