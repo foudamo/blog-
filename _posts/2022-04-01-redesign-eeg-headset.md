@@ -3,6 +3,7 @@ layout: post
 title: Imagining a Consumer-targeted EEG Headset
 tags:
   - Research
+  - Product Design
 date: 2022-04-01
 ---
 ![](/images/EEGH_0.jpg)
@@ -38,4 +39,4 @@ Majority of EEG headsets currently are designed and engineered for researchers. 
 ---
 
 ### Further reading
-<object data="/images/Redesign%20of%20EEG%20Headset/SYDE660_FinalProjectReport-copy.pdf" type="application/pdf" width="100%" style="height: 150vh;"></object>
+<object data="/images/Redesign%20of%20EEG%20Headset/SYDE660_FinalProjectReport-copy.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
