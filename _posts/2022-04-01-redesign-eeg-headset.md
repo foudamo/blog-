@@ -38,4 +38,4 @@ Majority of EEG headsets currently are designed and engineered for researchers. 
 ---
 
 ### Further reading
-<object data="/images/Redesign%20of%20EEG%20Headset/SYDE660_FinalProjectReport-copy.pdf" type="application/pdf" width="100%" height="100vh"></object>
+<object data="/images/Redesign%20of%20EEG%20Headset/SYDE660_FinalProjectReport-copy.pdf" type="application/pdf" width="100%" style="height: 150vh;"></object>
