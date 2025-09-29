@@ -3,6 +3,7 @@ layout: post
 title: Dark Design Patterns
 tags:
   - Blog
+  - UX
 ---
 
 *Originally posted on [Medium](https://medium.com/@FoudaMoh/dark-design-patterns-501e9bed4d2f) by [M. O. Fouda](https://medium.com/@FoudaMoh)*

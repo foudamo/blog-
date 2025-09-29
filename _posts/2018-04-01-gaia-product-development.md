@@ -7,7 +7,7 @@ tags:
 date: 2018-04-01
 ---
 
-![](/images/GAIA/gaia_main.jpg)
+![Launch%20Tomorrow.png](/images/GAIA/Launch%20Tomorrow.png)
 
 ## Project Overview
 This is a complete cycle of a product from concept to final prototype, with a startup built around it employing tens of people and evaluated at $1M CAD.
@@ -24,6 +24,7 @@ This is a complete cycle of a product from concept to final prototype, with a st
 Below are images and videos from the design process:
 
 ## Design & Prototyping
+![](/images/GAIA/gaia_main.jpg)
 ![IMG_1154.jpeg](/images/GAIA/IMG_1154.jpeg)
 ![Gaia%20Sprite%202.jpeg](/images/GAIA/Gaia%20Sprite%202.jpeg)
 ![IMG_0556.jpeg](/images/GAIA/IMG_0556.jpeg)

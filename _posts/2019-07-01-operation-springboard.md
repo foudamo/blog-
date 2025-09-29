@@ -3,6 +3,7 @@ layout: post
 title: Process Design & Educational Curriculum Design (Operation Springboard)
 tags:
   - UX
+  - Product Design
 date: 2019-07-01
 ---
 ![](/images/OperationSpringboard/HighF_Wireframing-1.jpg)
@@ -21,13 +22,13 @@ Marginalized youth are often caught up in between cracks for no fault of theirs 
 Below are images related to the design process I used at Operation Springboard:
 
 ![](/images/OperationSpringboard/HighF_Wireframing-1.jpg)
-![](/images/OperationSpringboard/Design_Process.pdf)
+<object data="/images/OperationSpringboard/Design_Process.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
 ![](/images/OperationSpringboard/HighFWeb-Design.jpg)
-![](/images/OperationSpringboard/Invision_Prototype.pdf)
-![](/images/OperationSpringboard/Journey-Map.pdf)
+<object data="/images/OperationSpringboard/Invision_Prototype.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
+<object data="/images/OperationSpringboard/Journey-Map.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
 ![](/images/OperationSpringboard/LowF_Wireframing-2.jpg)
 ![](/images/OperationSpringboard/LowF_Wireframing-3.jpg)
 ![](/images/OperationSpringboard/Mockup-1.png)
-![](/images/OperationSpringboard/Moodboard-1.pdf)
-![](/images/OperationSpringboard/Persona-Template.pdf)
-![](/images/OperationSpringboard/Personas.pdf)
+<object data="/images/OperationSpringboard/Moodboard-1.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
+<object data="/images/OperationSpringboard/Persona-Template.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
+<object data="/images/OperationSpringboard/Personas.pdf" type="application/pdf" width="100%" style="height: 100vh;"></object>
