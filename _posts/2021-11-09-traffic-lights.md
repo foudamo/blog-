@@ -6,7 +6,7 @@ tags:
   - UX
   - Environment Design
 ---
-![](/images/unnamed.png)
+![](/images/unnamed.jpg)
 
 *Originally posted on [Medium](https://medium.com/@FoudaMoh/traffic-light-buttons-9b3fc398c23) by [M. O. Fouda](https://medium.com/@FoudaMoh)*
 
