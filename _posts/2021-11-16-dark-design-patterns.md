@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Dark Design Patterns
+title: Thoughts on Dark Design Patterns
 tags:
   - Blog
-  - UX
+  - Design Review
+  - Behavioral Design
+---
+
+It’s no secret that a lot of products today are designed for maximum user engagement, especially products that rely on users as part of its revenue. The problem here is that the company (presented by its executives and its designers) design their products to take advantage of psychological vulnerability built into every human, essentially turning its users into addicts of its own products. This is harmful, as not only does it alter human behaviours in a negative way in the short term, but the real harm comes from the long-term chemical and neuroplastic effects these deliberate design choices will have on humanity.
+
 ---
 
 *Originally posted on [Medium](https://medium.com/@FoudaMoh/dark-design-patterns-501e9bed4d2f) by [M. O. Fouda](https://medium.com/@FoudaMoh)*
 
----
 
 In this article [1], the author talks about what he describes as digital sin. This is basically the harmful ways we use digital products today. The author however steers clear from putting the blame of this sin completely on us (the users) and puts the blame more on the designers and business owners (such as founder of Facebook Mark Zuckerberg).
 

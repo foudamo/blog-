@@ -2,9 +2,9 @@
 layout: post
 title: Effect of Fatigue & Time-pressure on Self-control and Decision Making
 tags:
-  - Research
-  - UX
-date: 2021-08-01
+  - Academic Research
+  - Cognitive Science
+date: 2022-08-01
 ---
 ![](/images/Fatigue-&-Time-pressure/unnamed.png)
 

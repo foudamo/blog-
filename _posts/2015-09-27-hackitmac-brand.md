@@ -26,27 +26,45 @@ And so a couple of notes here; for just a logo for our first year, this was more
 
 It's a lot cleaner, and a lot higher resolution. But that's not the point! 
 
-## The new branding represents us in a way that allows people's first impression to have a visual of what we do as a community and as a club. 
+### The new branding represents us in a way that allows people's first impression to have a visual of what we do as a community and as a club. 
 
-Here's how:
+## Here's how:
 
-1. The logo is a lot cleaner, and easier to read. We emphasized a lot on the "Hack" by separating the words by colour to allow for an easier faster read.
+1) The logo is a lot cleaner, and easier to read. We emphasized a lot on the "Hack" by separating the words by colour to allow for an easier faster read.
 
 ![](/images/Hackitmac_3.png)
 
-2. We made sure to visualize what **"hacking" & "hackathons"** are all about by adding a pattern of **moments** and things that everyone who has ever been to a hackathon would relate to. A lot of people associate **"hacking"** with the illegal activities of stealing and cracking into people's computers. But that's not what we do!
+2) We made sure to visualize what **"hacking" & "hackathons"** are all about by adding a pattern of **moments** and things that everyone who has ever been to a hackathon would relate to. A lot of people associate **"hacking"** with the illegal activities of stealing and cracking into people's computers. But that's not what we do!
 
-3. We are a community interested in learning, building, and experiencing with different cool technologies in order to solve real problems. **We are diverse. We are positive. We love free swag.** All those are things you will find in our pattern.
+![](/images/hackitmac/05.png)
+
+3) We are a community interested in learning, building, and experiencing with different cool technologies in order to solve real problems. **We are diverse. We are positive. We love free swag.** All those are things you will find in our pattern.
 
 ![](/images/Hackitmac_4.png)
 
-4. Our main colours are different levels of Blue and different levels of orange/gold. Why? Typically colours are associated with meaning psychologically (seriously! This is so cool Google it up). Here's how it goes;
+4) Our main colours are different levels of Blue and different levels of orange/gold. Why? Typically colours are associated with meaning psychologically (seriously! This is so cool Google it up). Here's how it goes;
 - **Blue** is associated with **confidence, comfortable, and quiet**; where
 - **Orange** is typically associated with **creativity, innovation, and positive encouraging energy**.
 
 This sums up our club and community precisely. We take risks by adding to our workloads and spending time travelling and building things; yet we are very confident in what we're doing. We love diversity and working with others **(in fact, a huge number of the club are not engineers and never coded before!)** yet we're very comfortable going outside of our comfort zones to be truly innovative. Lastly, we're a very welcoming community that is self-motivated and encouraging towards each other, and is never too noisy for a voice to be heard :)
 
 ... 
+
+# Gallery 
+
+Below are some of the final designs 
+
+![](/images/hackitmac/00.png)
+![](/images/hackitmac/01.png)
+![](/images/hackitmac/02.png)
+![](/images/hackitmac/03.png)
+![](/images/hackitmac/04.png)
+![](/images/hackitmac/06.png)
+![](/images/hackitmac/07.png)
+![](/images/hackitmac/08.png)
+![](/images/hackitmac/09.png)
+![](/images/hackitmac/10.png)
+![](/images/hackitmac/11.png)
 
 Alas, if you're looking for branding material, here's how the new logo looks across the different colours:
 
@@ -55,7 +73,3 @@ Alas, if you're looking for branding material, here's how the new logo looks acr
 & here's the colour palette we are using:
 
 ![](/images/Hackitmac_5.png)
-
-... 
-
-So what do you think? Do you have any feedback to us? Please let us know through any of our contacting channels, as we dearly dearly value that :)

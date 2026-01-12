@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Traffic Light Buttons
+title: Thoughts on Design of Traffic Light Buttons
 tags:
   - Blog
-  - UX
-  - Environment Design
+  - Design Review
+  - Environmental Design
 ---
-![](/images/unnamed.jpg)
+![](../images/unnamed.jpg)
 
 *Originally posted on [Medium](https://medium.com/@FoudaMoh/traffic-light-buttons-9b3fc398c23) by [M. O. Fouda](https://medium.com/@FoudaMoh)*
 

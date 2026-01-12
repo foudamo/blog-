@@ -1,0 +1,69 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio
+---
+
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% endif %}
+
+<div class="tags">
+  {% comment %} Create array with padded counts for proper sorting {% endcomment %}
+  {% assign tags_with_counts = "" | split: "" %}
+  {% for tag in site.tags %}
+    {% assign count = tag[1].size %}
+    {% assign padded_count = "0000" | append: count | slice: -4, 4 %}
+    {% assign tag_entry = padded_count | append: "|||" | append: tag[0] %}
+    {% assign tags_with_counts = tags_with_counts | push: tag_entry %}
+  {% endfor %}
+  {% assign sorted_tags_data = tags_with_counts | sort | reverse %}
+
+  <ul class="label">
+    {% for tag_data in sorted_tags_data %}
+      {% assign parts = tag_data | split: "|||" %}
+      {% assign tag_name = parts[1] %}
+      {% for tag in site.tags %}
+        {% if tag[0] == tag_name %}
+        <li>
+          <a href="#{{ tag[0] }}">
+            <span>{{ tag[0] }}</span>
+            <span class="count">{{ tag[1] | size }}</span>
+          </a>
+        </li>
+        {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+
+  {% for tag_data in sorted_tags_data %}
+    {% assign parts = tag_data | split: "|||" %}
+    {% assign tag_name = parts[1] %}
+    {% for tag in site.tags %}
+      {% if tag[0] == tag_name %}
+    <h2 id="{{ tag[0] }}">
+      {{ tag[0] }}
+    </h2>
+    <ul class="tag">
+        {% assign sorted_posts = tag[1] | sort: 'title' %}
+        {% for post in sorted_posts %}
+          {% if post.title != null %}
+            <li>
+              {% if post.link %}
+                <a href="{{ post.link }}">
+              {% else %}
+                <a href="{{ site.baseurl }}{{ post.url }}">
+              {% endif %}
+                  {{ post.title }}
+                </a>
+                <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>

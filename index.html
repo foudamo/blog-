@@ -2,12 +2,24 @@
 layout: default
 ---
 
-{% if site.posts.size == 0 %}
+<h2 style="color: #cfcfcf;">Blog</h2>
+
+{% assign blog_posts = site.posts | where_exp: "post", "post.tags contains 'Blog'" %}
+
+{% if blog_posts.size == 0 %}
   <h2>No post found</h2>
 {% endif %}
 
+{% comment %} Calculate pagination for blog posts only {% endcomment %}
+{% assign posts_per_page = 5 %}
+{% assign current_page = paginator.page | default: 1 %}
+{% assign offset = current_page | minus: 1 | times: posts_per_page %}
+{% assign limit = offset | plus: posts_per_page %}
+
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% assign count = 0 %}
+  {% for post in blog_posts %}
+    {% if count >= offset and count < limit %}
     <article class="post">
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -35,6 +47,8 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endif %}
+    {% assign count = count | plus: 1 %}
   {% endfor %}
 </div>
 
@@ -46,7 +60,15 @@ layout: default
       </a>
     </span>
   {% endif %}
-  {% if paginator.next_page %}
+
+  {% assign total_blog_posts = blog_posts.size %}
+  {% assign total_pages = total_blog_posts | divided_by: posts_per_page %}
+  {% assign remainder = total_blog_posts | modulo: posts_per_page %}
+  {% if remainder > 0 %}
+    {% assign total_pages = total_pages | plus: 1 %}
+  {% endif %}
+
+  {% if current_page < total_pages %}
     <span class="next">
       <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
         Older Posts &#xE001;

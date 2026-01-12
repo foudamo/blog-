@@ -1,8 +1,10 @@
 ---
 layout: post
-title: “FLASH” News
+title: Thoughts on “FLASH” News
 tags:
   - Blog
+  - Design Review
+  - Behavioral Design
 ---
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E0G7snQZZzgURz4codFh1Q.jpeg)
 

@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: Hi! I am Mohamed
 permalink: /about/
 ---
-Experienced Product Leader with 6+ years driving agile product development, UX/UI design, and platform management with previous stints at *Government of Canada, BlackBerry, HydroOne, and Google For Entrepreneurship.*
 
-Currently, with the United Nations helping build up [Quality of Life Initative](https://qolimpact.com), and by night you can find me building up [CivicTech Waterloo Region](https://civictechwr.org). 
 
-My passion is in how design attributions affect cognitive abilities, specifically in the areas of sports psychology, consumer technology, and human behaviour and development. I am also an avid cyclist and cycling instructor at the University of Waterloo. And sometimes I do musicals on stage!
 
-### Contact me
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
 
-You can get in touch with me below 
-* [foudamo@gmail.com](mailto:foudamo@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/foudamo)
+  <div style="flex: 1;">
+    <p>I am a product manager & designer. I have 6+ years of experience in driving agile product development, UX/UI design, and platform management - with previous stints at <em> United Nations, Federal Government of Canada, HydroOne, BlackBerry Ltd; </em>in addition to a couple of startups including ones with <em> Google For Entrepreneurship, YC, and LaunchYU.</em></p>
+  </div>
 
-![](/images/IMG_2118.jpeg)
+</div>
+
+  <div style="flex: 0 0 45%; min-width: 200px;">
+    <img src="../images/IMG_2118.png" alt="Profile photo" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <div style="flex: 1;">
+    <p>My passion is in how design & systems attributions affect human behaviour. I am also an avid photographer, cyclist / cycling instructor at the University of Waterloo. And sometimes I do musicals on stage!</p>
+    <p>Currently, I am helping build up the United Nations' <a href="https://qolimpact.com">Quality of Life Smart City Initative</a>, and by night you can find me building up community at <a href="https://civictechwr.org">CivicTech Waterloo Region</a>.</p>
+    <h3>Contact me</h3>
+    <p>The best way to get in touch with me would be through <a href="https://www.linkedin.com/in/foudamo">Linkedin</a></p>
+  </div>
