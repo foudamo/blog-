@@ -19,7 +19,7 @@ permalink: /about/
   </div>
 
   <div style="flex: 1;">
-    <p>My passion is in how design & systems attributions affect human behaviour. I am also an avid photographer, cyclist / cycling instructor at the University of Waterloo. And sometimes I do musicals on stage!</p>
+    <p>My passion is in how human behaviour is affected by design & systems-attributions. I am also an avid photographer, and cyclist / cycling instructor. And sometimes I do act or manage a musicals on a local stage!</p>
     <p>Currently, I am helping build up the United Nations' <a href="https://qolimpact.com">Quality of Life Smart City Initative</a>, and by night you can find me building up community at <a href="https://civictechwr.org">CivicTech Waterloo Region</a>.</p>
     <h3>Contact me</h3>
     <p>The best way to get in touch with me would be through <a href="https://www.linkedin.com/in/foudamo">Linkedin</a></p>
