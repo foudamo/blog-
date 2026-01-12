@@ -6,7 +6,7 @@ tags:
 date: 2018-08-01
 ---
 
-![](/images/HelpingHands/HH_00.png)
+![](/images/HelpingHands/HH_00.pdf)
 ![](/images/HelpingHands/HH_01.pdf)
 
 ## Project Overview — HelpingHands
