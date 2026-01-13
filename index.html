@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 style="color: #cfcfcf;">Blog</h2>
+<h1 style="color: #cfcfcf;">Blog</h1>
 
 {% assign blog_posts = site.posts | where_exp: "post", "post.tags contains 'Blog'" %}
 
@@ -21,9 +21,9 @@ layout: default
   {% for post in blog_posts %}
     {% if count >= offset and count < limit %}
     <article class="post">
-      <h1>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
+      <h2>
+        <a style="color: black;" onmouseover="this.style.color='#1b6ec2';" onmouseout="this.style.color='black';" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
 
       <div>
         <span class="date">
